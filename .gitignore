@@ -1,0 +1,34 @@
+# dependencies
+
+# logs
+
+# environment variables
+.env
+.env.production
+
+# data
+data_container/
+
+# macOS-specific & python cache files
+.DS_Store
+.vscode
+scripts/data_management/__pycache__
+management/__pycache__
+setting/__pycache__/
+
+# temporary files
+temporary/
+exchange/
+uploadmetosharepoint.txt
+pushme.*
+*.csv
+*.zip
+
+# security file
+appkey.yaml
+mapping_key/
+surveyDrawer/
+
+# NLP LLM
+llama/
+llama-2-7b-chat/
