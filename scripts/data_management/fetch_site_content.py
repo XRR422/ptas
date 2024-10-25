@@ -19,14 +19,11 @@ class crawl_class:
         return [sentence.strip() + '.' for sentence in sentences if keyword.lower() in sentence.lower()]
 
     def crawl_and_search(self, base_url, url, keyword, visited=set()):
-        if url in visited:
-            return []
+        response = requests.get(url)
+        if (response.status_code != 200) or (url in visited):
+            return False
         self.logger.info(f"Visiting: {url}")  # Logging instead of printing
         visited.add(url)
-        response = requests.get(url)
-        if response.status_code != 200:
-            return []
-        
         soup = BeautifulSoup(response.text, 'html.parser')
         links = soup.find_all('a', href=True)
         keyword_sentences = []

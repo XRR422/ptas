@@ -34,3 +34,4 @@ if __name__ == "__main__":
     
     if finish_or_not:
         logger.info(f"Mining for keywords{keyword} complete.")
+        

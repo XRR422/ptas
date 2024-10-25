@@ -14,7 +14,7 @@ data_container/
 .vscode
 scripts/data_management/__pycache__
 management/__pycache__
-setting/__pycache__/
+setting/__pycache__
 
 # temporary files
 temporary/
