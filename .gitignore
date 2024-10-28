@@ -1,7 +1,7 @@
 # dependencies
 
 # logs
-
+*.out
 # environment variables
 .env
 .env.production
