@@ -41,8 +41,16 @@ class crawl_class:
     def extract_sentences(self, table_elements, keyword):
         filtered_contents = []
         for each_e in table_elements:
-            if keyword.lower() in each_e.text.lower():
-                filtered_contents.append(each_e)
+            text_content = each_e.text.strip()  # Get text content and strip whitespace
+            if keyword.lower() in text_content.lower():  # Check if keyword is in text content
+                sentences = re.split(r'[.!?]\s*', text_content)
+                matching_sentences = []
+                for sentence in sentences:
+                    clean_sentence = re.sub(r'\s+', ' ', sentence)
+                    clean_sentence = clean_sentence.replace('\n', ' ').strip()  # Replace newline characters and strip leading/trailing spaces
+                    if keyword in clean_sentence.lower():
+                        matching_sentences.append(clean_sentence)
+                filtered_contents += matching_sentences  # Append the text content only
         return filtered_contents
 
     def crawl_and_search(self, base_url, url, keyword, url_filter):
