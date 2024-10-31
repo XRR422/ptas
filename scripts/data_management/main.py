@@ -18,7 +18,10 @@ if __name__ == "__main__":
             for keyword in keywords:
                 ls_suburl_of_school = sub_urls_of_school[SCHOOL_CODE]
                 base_url = f"http://www.drps.ed.ac.uk/{YEAR}/dpt/"
-                filename = os.path.join(DIR_DATACONTAINER, f"{YEAR}_{SCHOOL_CODE}_keyword-{keyword}_{formatted_time}.csv")
+                DIR_DATACONTAINER_WITH_DATE = os.path.join(DIR_DATACONTAINER, formatted_time)
+                if not os.path.exists(DIR_DATACONTAINER_WITH_DATE):
+                    os.mkdir(DIR_DATACONTAINER_WITH_DATE)
+                filename = os.path.join(DIR_DATACONTAINER_WITH_DATE, f"{YEAR}_{SCHOOL_CODE}_keyword-{keyword}.csv")
                 log_filename = f"{DIR_MININGLOG}/crawlLogger_{formatted_time}.log"
                 logger = logging.getLogger('crawlLogger')
                 logger.setLevel(logging.INFO)

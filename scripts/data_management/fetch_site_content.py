@@ -7,10 +7,11 @@ import pandas as pd
 
 class crawl_class:
     
-    def __init__(self, logger, csvfilename, previous_logfile_path=None):
+    def __init__(self, logger, csvfilename, overwrite=False, previous_logfile_path=None):
         self.logger = logger
         self.csv_filename = csvfilename
         self.visited = set()
+        self.overwriteexistcsv = overwrite
         if previous_logfile_path is not None:
             self.visited, self.last_visited_url = self.extract_urls_from_logfile(previous_logfile_path)
             self.previous_logfile_path = previous_logfile_path
