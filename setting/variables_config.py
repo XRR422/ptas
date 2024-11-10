@@ -1,3 +1,10 @@
+DRPS_keys_of_interest = {
+    "Course Outline": ["Summary", "Course description"],
+    "Course Delivery Information": ["Additional Information (Assessment)", "Feedback"],
+    "Learning Outcomes": ["all"],
+    "Additional Information": ["Graduate Attributes and Skills", "Keywords"]
+}
+
 sub_urls_of_school = {
     "cx_s_su747.htm": ['cx_sb_epcc.htm', 'cx_sb_epcd.htm', 'cx_sb_infd.htm', 'cx_sb_infr.htm'],
     "cx_s_su819.htm": ['cx_sb_edua.htm', 'cx_sb_redu.htm', 'cx_sb_sprt.htm'],
@@ -24,3 +31,5 @@ negative_accessibility_words = [
 neutral_accessibility_words = ["design", "disabled", "impairement"]
 
 Accessibility_List = positive_accessibility_words + negative_accessibility_words + neutral_accessibility_words
+
+Chatbot_accessibility_words = ["Accessibility awareness", "Inclusive design", "Universal design", "Accessible technology", "Disability rights", "Assistive technologies", "Barrier-free", "Equity and access in education", "Americans with Disabilities Act compliance", "Web Content Accessibility Guidelines", "Sensory impairments", "Mobility challenges", "Learning differences", "Adaptive learning tools", "Inclusive teaching strategies"]

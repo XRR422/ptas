@@ -10,12 +10,12 @@ current_time = datetime.datetime.now()
 formatted_time = current_time.strftime('%y_%m_%d_%H_%M_%S')
 YEARS = ["23-24"]
 SCHOOL_CODES = sub_urls_of_school.keys()
-keywords = Accessibility_List
 
 def fetch_sites_match_any_keywords():
+    local_cw = Accessibility_List.copy()
     for YEAR in YEARS:
         for SCHOOL_CODE in SCHOOL_CODES:
-            for keyword in keywords:
+            for keyword in local_cw:
                 ls_suburl_of_school = sub_urls_of_school[SCHOOL_CODE]
                 base_url = f"http://www.drps.ed.ac.uk/{YEAR}/dpt/"
                 DIR_DATACONTAINER_WITH_DATE = os.path.join(DIR_DATACONTAINER, formatted_time)
@@ -47,6 +47,7 @@ def fetch_sites_match_any_keywords():
                         logger.info(f"Mining for keywords {keyword} is unsuccess. The last url attempted to access is {finish_or_not['last_visit']}. Reason: {finish_or_not['comment']}")
 
 def fetch_sites_relevant_to_keywords():
+    local_kw = Chatbot_accessibility_words.copy()
     for YEAR in YEARS:
         for SCHOOL_CODE in SCHOOL_CODES:
             ls_suburl_of_school = sub_urls_of_school[SCHOOL_CODE]
@@ -72,12 +73,12 @@ def fetch_sites_relevant_to_keywords():
                 df.to_csv(filename)
                 # Start the crawling process and save results
                 crawl_searcher = crawl_class(logger=logger, csvfilename=filename)
-                finish_or_not = crawl_searcher.fetch_by_chatgpt(base_url, start_url, Accessibility_List, url_filter)
+                finish_or_not = crawl_searcher.fetch_by_chatgpt(base_url, start_url, local_kw, url_filter)
                 
                 if finish_or_not["status"]:
-                    logger.info(f"Mining for keywords {Accessibility_List} is {finish_or_not['comment']}.")
+                    logger.info(f"Mining for keywords {local_kw} is {finish_or_not['comment']}.")
                 else:
-                    logger.info(f"Mining for keywords {Accessibility_List} is unsuccess. The last url attempted to access is {finish_or_not['last_visit']}. Reason: {finish_or_not['comment']}")
+                    logger.info(f"Mining for keywords {local_kw} is unsuccess. The last url attempted to access is {finish_or_not['last_visit']}. Reason: {finish_or_not['comment']}")
 
 
 

@@ -1,9 +1,12 @@
+import os, sys
+sys.path.append(os.getcwd())
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 import re
 import pandas as pd
 import openai
+from setting.variables_config import *
 
 
 class crawl_class:
@@ -98,6 +101,38 @@ class crawl_class:
                 self.save_to_csv(keyword_sentences)
         return {"status": True, "last_visit": full_link, "comment": "success"}
 
+    def format_html_tabel_content(self, table_elements):
+        table_dic = {}
+        caption_ls = list(DRPS_keys_of_interest.keys())
+        for each_caption in caption_ls:
+            if each_caption == "Course Delivery Information": 
+                print('Debug')
+            caption_table = [i for i in table_elements if each_caption in i.text]
+            if each_caption == "Learning Outcomes":
+                td_elements = caption_table.text
+                clean_td_elements = re.sub(r'\s+', ' ', td_elements)
+                clean_td_elements = clean_td_elements.replace('\n', ' ').strip()
+                table_dic["Learning Outcomes"] = clean_td_elements
+            else:
+                caption_elements = caption_table.find_all('td')
+                for td in DRPS_keys_of_interest[each_caption]:
+                    td_elements_seq = None
+                    index = 0
+                    for ele in caption_elements:
+                        if td in ele.text:
+                            td_elements_seq = index
+                            td_elements = caption_elements[index+1].text
+                            continue
+                        index += 1
+                    if td_elements_seq is None:
+                        td_elements = [i for i in caption_elements if td in i.text]
+                        td_elements = ''.join([i.nextSibling.text for i in td_elements])
+                    clean_td_elements = re.sub(r'\s+', ' ', td_elements)
+                    clean_td_elements = clean_td_elements.replace('\n', ' ').strip()
+                    table_dic[td] = clean_td_elements
+        return table_dic
+            
+            
     def fetch_by_chatgpt(self, base_url, url, keywords, url_filter):
         response = requests.get(url)
         if (response.status_code != 200):
@@ -118,8 +153,8 @@ class crawl_class:
             keyword_sentences = []
             if self.is_valid_url(base_url, full_link) and full_link not in self.visited:
                 suburl_soup = BeautifulSoup(suburl_response.text, 'html.parser')
-                table_elements = suburl_soup.find_all('td')
-                sentences = self.clean_html_content(table_elements)
+                table_elements = suburl_soup.find_all('table')
+                sentences = self.format_html_tabel_content(table_elements)
                 client = openai.OpenAI( api_key="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",)
                 response = client.chat.completions.create(model="gpt-3.5-turbo", # model to use from Models Tab
                         messages = [
@@ -129,7 +164,7 @@ class crawl_class:
                                 },
                                 {
                                     "role": "user",
-                                    "content": f"Extract sentences related to keywords {keywords} from HTML contents: {'|'.join(sentences)}"
+                                    "content": f"Select sentences related to keywords {keywords} from HTML contents: {'|'.join(sentences)}"
                                 },
                                 {
                                     "role": "user",
@@ -140,7 +175,7 @@ class crawl_class:
                 
                 if sentences:
                     for sentence in sentences:
-                        keyword_sentences.append({"URL": full_link, "Sentence": response, "Keywords": ''.join(keywords)})
+                        keyword_sentences.append({"URL": full_link, "Sentence": response, "Keywords": ','.join(keywords)})
             if len(keyword_sentences) > 0:
                 self.save_to_csv(keyword_sentences)
         return {"status": True, "last_visit": full_link, "comment": "success"}
