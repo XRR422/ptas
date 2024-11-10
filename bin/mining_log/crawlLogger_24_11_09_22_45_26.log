@@ -1,0 +1,1401 @@
+2024-11-10 00:03:43,721 - INFO - Logger configured. Record to mine sites relevant to keywords semantic space.
+2024-11-10 00:03:43,721 - INFO - ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv created.
+2024-11-10 00:03:43,757 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_clps.htm
+2024-11-10 00:03:43,823 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps10001.htm
+2024-11-10 00:03:45,826 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:03:45,854 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11061.htm
+2024-11-10 00:04:12,142 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:12,173 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11097.htm
+2024-11-10 00:04:16,331 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:16,463 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11037.htm
+2024-11-10 00:04:26,595 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:26,625 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11068.htm
+2024-11-10 00:04:29,966 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:29,993 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11041.htm
+2024-11-10 00:04:32,359 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:32,384 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11086.htm
+2024-11-10 00:04:35,498 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:35,541 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11012.htm
+2024-11-10 00:04:38,364 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:38,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11079.htm
+2024-11-10 00:04:41,169 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:41,185 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11065.htm
+2024-11-10 00:04:42,967 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:42,996 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11083.htm
+2024-11-10 00:04:45,281 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:45,307 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11082.htm
+2024-11-10 00:04:47,464 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:47,477 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11089.htm
+2024-11-10 00:04:49,553 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:49,584 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11070.htm
+2024-11-10 00:04:52,615 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:52,651 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11081.htm
+2024-11-10 00:04:55,091 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:55,120 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11088.htm
+2024-11-10 00:04:58,410 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:58,443 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11002.htm
+2024-11-10 00:05:00,978 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:01,006 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11029.htm
+2024-11-10 00:05:03,029 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:03,055 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11092.htm
+2024-11-10 00:05:05,116 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:05,152 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11071.htm
+2024-11-10 00:05:07,974 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:08,000 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11060.htm
+2024-11-10 00:05:11,015 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:11,043 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11052.htm
+2024-11-10 00:05:13,019 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:13,048 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11087.htm
+2024-11-10 00:05:17,847 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:17,874 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11053.htm
+2024-11-10 00:05:20,375 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:20,401 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11044.htm
+2024-11-10 00:05:22,625 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:22,655 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11054.htm
+2024-11-10 00:05:25,331 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:25,351 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11048.htm
+2024-11-10 00:05:28,150 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:28,162 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11103.htm
+2024-11-10 00:05:31,970 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:32,006 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11049.htm
+2024-11-10 00:05:34,104 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:34,135 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11077.htm
+2024-11-10 00:05:37,950 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:37,978 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11078.htm
+2024-11-10 00:05:40,979 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:41,013 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11076.htm
+2024-11-10 00:05:43,956 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:43,983 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11030.htm
+2024-11-10 00:05:47,085 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:47,118 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11072.htm
+2024-11-10 00:06:09,881 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:09,900 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11059.htm
+2024-11-10 00:06:12,793 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:13,011 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11104.htm
+2024-11-10 00:06:17,732 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:17,760 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11009.htm
+2024-11-10 00:06:21,113 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:21,151 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11039.htm
+2024-11-10 00:06:23,672 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:23,688 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11050.htm
+2024-11-10 00:06:25,732 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:25,747 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11091.htm
+2024-11-10 00:06:45,290 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:45,328 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11010.htm
+2024-11-10 00:06:58,369 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:58,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11033.htm
+2024-11-10 00:07:18,569 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:18,603 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11099.htm
+2024-11-10 00:07:27,525 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:27,554 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11063.htm
+2024-11-10 00:07:49,457 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:49,502 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11055.htm
+2024-11-10 00:07:51,926 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:51,952 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11073.htm
+2024-11-10 00:08:15,405 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:17,483 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11084.htm
+2024-11-10 00:08:19,386 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:19,402 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11064.htm
+2024-11-10 00:08:23,074 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:23,102 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11094.htm
+2024-11-10 00:08:25,673 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:25,689 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11058.htm
+2024-11-10 00:08:44,201 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:44,232 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11047.htm
+2024-11-10 00:09:27,134 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:27,182 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11085.htm
+2024-11-10 00:09:31,356 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:31,388 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11100.htm
+2024-11-10 00:09:34,767 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:34,783 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11042.htm
+2024-11-10 00:09:38,105 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:38,120 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11013.htm
+2024-11-10 00:09:42,887 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:42,927 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11006.htm
+2024-11-10 00:10:03,682 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:10:03,726 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11062.htm
+2024-11-10 00:10:50,822 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:10:50,852 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11014.htm
+2024-11-10 00:11:09,442 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:09,474 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11090.htm
+2024-11-10 00:11:12,754 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:12,799 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11056.htm
+2024-11-10 00:11:31,485 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:31,521 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11095.htm
+2024-11-10 00:11:36,419 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:36,450 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11066.htm
+2024-11-10 00:11:45,692 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:45,727 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11067.htm
+2024-11-10 00:11:55,446 - INFO - 94 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:55,476 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11046.htm
+2024-11-10 00:12:12,627 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:12,723 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11101.htm
+2024-11-10 00:12:24,135 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:24,169 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11057.htm
+2024-11-10 00:12:28,529 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:28,558 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11096.htm
+2024-11-10 00:12:31,103 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:31,134 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11045.htm
+2024-11-10 00:12:34,712 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:34,752 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11102.htm
+2024-11-10 00:12:38,101 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:38,116 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11080.htm
+2024-11-10 00:12:41,026 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:41,056 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11093.htm
+2024-11-10 00:12:46,085 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:46,105 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11098.htm
+2024-11-10 00:12:50,232 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:50,262 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11040.htm
+2024-11-10 00:12:52,489 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:52,523 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12002.htm
+2024-11-10 00:13:49,573 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:13:49,608 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12009.htm
+2024-11-10 00:13:56,246 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:13:56,277 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12034.htm
+2024-11-10 00:13:59,681 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:13:59,714 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12035.htm
+2024-11-10 00:14:04,151 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:14:04,169 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12038.htm
+2024-11-10 00:14:31,390 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:14:31,422 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12039.htm
+2024-11-10 00:15:01,553 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:01,586 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12016.htm
+2024-11-10 00:15:06,756 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:06,785 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12036.htm
+2024-11-10 00:15:21,590 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:21,626 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12037.htm
+2024-11-10 00:15:45,222 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:45,259 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12013.htm
+2024-11-10 00:15:52,152 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:52,197 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12014.htm
+2024-11-10 00:15:55,575 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:55,576 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:15:55,681 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_cnst.htm
+2024-11-10 00:15:55,735 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst08001.htm
+2024-11-10 00:15:58,342 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:58,394 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst08002.htm
+2024-11-10 00:16:00,859 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:00,890 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11079.htm
+2024-11-10 00:16:10,471 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:10,498 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11061.htm
+2024-11-10 00:16:13,636 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:13,664 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11053.htm
+2024-11-10 00:16:18,783 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:18,809 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11034.htm
+2024-11-10 00:16:21,439 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:21,466 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11090.htm
+2024-11-10 00:16:24,362 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:24,389 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11047.htm
+2024-11-10 00:16:26,823 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:26,857 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11076.htm
+2024-11-10 00:16:29,460 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:29,490 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11075.htm
+2024-11-10 00:16:31,508 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:31,533 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11041.htm
+2024-11-10 00:16:34,297 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:34,323 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11068.htm
+2024-11-10 00:16:37,389 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:37,414 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11088.htm
+2024-11-10 00:16:39,194 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:39,221 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11089.htm
+2024-11-10 00:17:07,085 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:07,103 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11080.htm
+2024-11-10 00:17:09,170 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:09,196 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11086.htm
+2024-11-10 00:17:16,070 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:16,096 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11081.htm
+2024-11-10 00:17:19,513 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:19,748 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11012.htm
+2024-11-10 00:17:39,614 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:39,654 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11043.htm
+2024-11-10 00:17:41,611 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:41,649 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11077.htm
+2024-11-10 00:18:02,903 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:02,944 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11087.htm
+2024-11-10 00:18:05,389 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:05,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11084.htm
+2024-11-10 00:18:08,757 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:08,796 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11046.htm
+2024-11-10 00:18:13,429 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:13,880 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11014.htm
+2024-11-10 00:18:16,132 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:16,781 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11091.htm
+2024-11-10 00:18:27,069 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:27,108 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11062.htm
+2024-11-10 00:18:29,709 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:29,734 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11093.htm
+2024-11-10 00:18:59,321 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:59,342 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11094.htm
+2024-11-10 00:19:03,046 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:03,074 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11085.htm
+2024-11-10 00:19:22,294 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:22,328 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11051.htm
+2024-11-10 00:19:26,630 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:26,658 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11082.htm
+2024-11-10 00:19:28,343 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:28,375 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11040.htm
+2024-11-10 00:19:31,381 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:31,409 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11042.htm
+2024-11-10 00:19:33,932 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:33,946 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12007.htm
+2024-11-10 00:19:47,739 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:47,771 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12013.htm
+2024-11-10 00:19:50,806 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:50,835 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12018.htm
+2024-11-10 00:19:58,361 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:58,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12021.htm
+2024-11-10 00:20:40,965 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:40,998 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12023.htm
+2024-11-10 00:20:46,809 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:46,838 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12017.htm
+2024-11-10 00:20:50,493 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:50,523 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12016.htm
+2024-11-10 00:20:54,005 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:54,035 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12020.htm
+2024-11-10 00:20:57,029 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:57,059 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12022.htm
+2024-11-10 00:20:59,269 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:59,298 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12024.htm
+2024-11-10 00:21:02,034 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:02,061 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12019.htm
+2024-11-10 00:21:11,805 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:11,841 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12010.htm
+2024-11-10 00:21:28,170 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:28,192 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12015.htm
+2024-11-10 00:21:32,140 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:32,167 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12014.htm
+2024-11-10 00:21:34,249 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:34,278 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12012.htm
+2024-11-10 00:21:37,496 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:37,496 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:21:37,696 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_issh.htm
+2024-11-10 00:21:37,746 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11026.htm
+2024-11-10 00:21:39,414 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:39,441 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11021.htm
+2024-11-10 00:21:42,790 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:42,816 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11011.htm
+2024-11-10 00:21:45,933 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:45,965 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11018.htm
+2024-11-10 00:21:48,290 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:48,316 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11017.htm
+2024-11-10 00:21:50,315 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:50,342 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11016.htm
+2024-11-10 00:21:53,179 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:53,204 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11024.htm
+2024-11-10 00:21:55,333 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:55,361 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11007.htm
+2024-11-10 00:22:06,144 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:06,174 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11010.htm
+2024-11-10 00:22:08,206 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:08,232 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11023.htm
+2024-11-10 00:22:27,196 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:27,197 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:22:27,362 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_nust.htm
+2024-11-10 00:22:27,448 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08026.htm
+2024-11-10 00:22:29,292 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:29,323 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08024.htm
+2024-11-10 00:22:33,449 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:33,477 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08025.htm
+2024-11-10 00:22:36,229 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:36,257 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08022.htm
+2024-11-10 00:22:38,305 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:38,329 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08023.htm
+2024-11-10 00:22:42,390 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:42,420 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08027.htm
+2024-11-10 00:22:45,461 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:45,488 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08019.htm
+2024-11-10 00:22:47,423 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:47,451 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08020.htm
+2024-11-10 00:22:49,962 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:49,988 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08021.htm
+2024-11-10 00:22:55,120 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:55,146 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10035.htm
+2024-11-10 00:22:57,281 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:57,294 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10062.htm
+2024-11-10 00:23:16,058 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:23:16,086 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10022.htm
+2024-11-10 00:23:18,006 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:23:18,033 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10033.htm
+2024-11-10 00:24:13,002 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:13,019 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10005.htm
+2024-11-10 00:24:14,834 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:14,847 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10057.htm
+2024-11-10 00:24:17,545 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:17,633 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10002.htm
+2024-11-10 00:24:21,266 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:21,279 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10050.htm
+2024-11-10 00:24:24,160 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:24,190 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10044.htm
+2024-11-10 00:24:31,192 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:31,219 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10036.htm
+2024-11-10 00:24:34,599 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:34,625 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10055.htm
+2024-11-10 00:24:45,582 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:45,611 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10059.htm
+2024-11-10 00:24:48,916 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:48,943 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10045.htm
+2024-11-10 00:25:27,273 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:25:27,304 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10051.htm
+2024-11-10 00:26:13,538 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:13,978 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10008.htm
+2024-11-10 00:26:17,042 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:17,058 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10061.htm
+2024-11-10 00:26:20,083 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:20,100 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10046.htm
+2024-11-10 00:26:23,199 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:23,231 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10053.htm
+2024-11-10 00:26:26,106 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:26,138 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10054.htm
+2024-11-10 00:26:28,436 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:28,447 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10043.htm
+2024-11-10 00:26:31,929 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:31,964 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10060.htm
+2024-11-10 00:26:36,350 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:36,379 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10052.htm
+2024-11-10 00:26:39,636 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:39,668 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10058.htm
+2024-11-10 00:26:45,439 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:45,468 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10030.htm
+2024-11-10 00:26:47,741 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:47,772 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10056.htm
+2024-11-10 00:27:01,409 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:01,443 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10047.htm
+2024-11-10 00:27:03,741 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:03,756 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11099.htm
+2024-11-10 00:27:10,057 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:10,091 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11121.htm
+2024-11-10 00:27:13,145 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:13,174 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11116.htm
+2024-11-10 00:27:16,201 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:16,228 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11110.htm
+2024-11-10 00:27:21,609 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:21,640 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11111.htm
+2024-11-10 00:27:24,401 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:24,430 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11113.htm
+2024-11-10 00:27:59,271 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:59,292 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11048.htm
+2024-11-10 00:28:05,058 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:05,465 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11085.htm
+2024-11-10 00:28:08,423 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:08,458 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11080.htm
+2024-11-10 00:28:16,886 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:16,911 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11091.htm
+2024-11-10 00:28:19,902 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:19,918 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11092.htm
+2024-11-10 00:28:22,050 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:22,079 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11088.htm
+2024-11-10 00:28:24,857 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:24,896 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11082.htm
+2024-11-10 00:28:27,418 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:27,434 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11102.htm
+2024-11-10 00:28:30,963 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:30,998 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11058.htm
+2024-11-10 00:28:34,787 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:34,813 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11033.htm
+2024-11-10 00:28:37,599 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:37,616 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11125.htm
+2024-11-10 00:28:42,248 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:42,266 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11089.htm
+2024-11-10 00:28:59,627 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:59,677 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11107.htm
+2024-11-10 00:29:29,246 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:29,284 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11095.htm
+2024-11-10 00:29:31,534 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:31,561 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11124.htm
+2024-11-10 00:29:35,104 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:35,135 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11112.htm
+2024-11-10 00:30:16,389 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:16,412 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11096.htm
+2024-11-10 00:30:19,144 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:19,185 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11106.htm
+2024-11-10 00:30:22,419 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:22,454 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11087.htm
+2024-11-10 00:31:04,526 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:04,564 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11105.htm
+2024-11-10 00:31:50,166 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:50,196 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11090.htm
+2024-11-10 00:31:53,604 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:53,628 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11093.htm
+2024-11-10 00:32:01,782 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:01,815 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11109.htm
+2024-11-10 00:32:32,737 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:32,771 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11123.htm
+2024-11-10 00:32:39,044 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:39,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11122.htm
+2024-11-10 00:33:06,173 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:06,207 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11115.htm
+2024-11-10 00:33:09,749 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:09,780 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11046.htm
+2024-11-10 00:33:19,499 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:19,533 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11101.htm
+2024-11-10 00:33:24,929 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:24,958 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11103.htm
+2024-11-10 00:33:29,031 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:29,060 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11100.htm
+2024-11-10 00:33:32,300 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:32,334 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11119.htm
+2024-11-10 00:33:36,049 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:36,080 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11081.htm
+2024-11-10 00:33:38,726 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:38,754 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11097.htm
+2024-11-10 00:33:44,597 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:44,631 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11104.htm
+2024-11-10 00:33:48,540 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:48,556 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11114.htm
+2024-11-10 00:33:52,817 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:52,836 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11083.htm
+2024-11-10 00:33:57,194 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:57,209 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11120.htm
+2024-11-10 00:34:00,975 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:01,012 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11117.htm
+2024-11-10 00:34:04,847 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:05,355 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11059.htm
+2024-11-10 00:34:08,255 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:08,284 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11060.htm
+2024-11-10 00:34:11,255 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:11,287 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11118.htm
+2024-11-10 00:34:39,293 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:39,337 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11078.htm
+2024-11-10 00:34:46,775 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:46,821 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11077.htm
+2024-11-10 00:34:55,346 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:55,379 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11052.htm
+2024-11-10 00:34:58,685 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:58,714 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11098.htm
+2024-11-10 00:35:01,997 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:02,014 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11075.htm
+2024-11-10 00:35:05,740 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:05,775 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:10,179 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:10,216 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:15,529 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:15,562 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:18,856 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:18,891 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11013.htm
+2024-11-10 00:35:22,956 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:22,981 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11094.htm
+2024-11-10 00:35:27,473 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:27,503 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11084.htm
+2024-11-10 00:35:30,905 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:30,906 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:35:31,085 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_shss.htm
+2024-11-10 00:35:31,134 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08004.htm
+2024-11-10 00:35:34,340 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:34,369 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08002.htm
+2024-11-10 00:35:40,077 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:40,104 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08006.htm
+2024-11-10 00:35:48,609 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:48,636 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08005.htm
+2024-11-10 00:35:52,502 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:52,538 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08003.htm
+2024-11-10 00:35:56,000 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:56,026 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08001.htm
+2024-11-10 00:35:58,102 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:58,115 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10008.htm
+2024-11-10 00:35:59,986 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:00,002 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10011.htm
+2024-11-10 00:36:19,369 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:19,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10003.htm
+2024-11-10 00:36:22,794 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:22,821 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10007.htm
+2024-11-10 00:37:04,324 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:04,355 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10009.htm
+2024-11-10 00:37:06,706 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:06,735 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10012.htm
+2024-11-10 00:37:23,410 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:23,442 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10010.htm
+2024-11-10 00:37:26,385 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:26,416 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10006.htm
+2024-11-10 00:37:34,847 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:34,893 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10005.htm
+2024-11-10 00:37:37,444 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:37,473 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10004.htm
+2024-11-10 00:37:39,995 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:40,032 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10001.htm
+2024-11-10 00:38:19,439 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:38:19,470 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10002.htm
+2024-11-10 00:38:58,564 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:38:58,597 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11003.htm
+2024-11-10 00:39:03,573 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:03,602 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11001.htm
+2024-11-10 00:39:06,025 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:06,053 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11002.htm
+2024-11-10 00:39:20,719 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:20,720 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2024-11-10 00:03:43,721 - INFO - Logger configured. Record to mine sites relevant to keywords semantic space.
+2024-11-10 00:03:43,721 - INFO - ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv created.
+2024-11-10 00:03:43,757 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_clps.htm
+2024-11-10 00:03:43,823 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps10001.htm
+2024-11-10 00:03:45,826 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:03:45,854 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11061.htm
+2024-11-10 00:04:12,142 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:12,173 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11097.htm
+2024-11-10 00:04:16,331 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:16,463 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11037.htm
+2024-11-10 00:04:26,595 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:26,625 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11068.htm
+2024-11-10 00:04:29,966 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:29,993 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11041.htm
+2024-11-10 00:04:32,359 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:32,384 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11086.htm
+2024-11-10 00:04:35,498 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:35,541 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11012.htm
+2024-11-10 00:04:38,364 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:38,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11079.htm
+2024-11-10 00:04:41,169 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:41,185 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11065.htm
+2024-11-10 00:04:42,967 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:42,996 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11083.htm
+2024-11-10 00:04:45,281 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:45,307 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11082.htm
+2024-11-10 00:04:47,464 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:47,477 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11089.htm
+2024-11-10 00:04:49,553 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:49,584 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11070.htm
+2024-11-10 00:04:52,615 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:52,651 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11081.htm
+2024-11-10 00:04:55,091 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:55,120 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11088.htm
+2024-11-10 00:04:58,410 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:04:58,443 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11002.htm
+2024-11-10 00:05:00,978 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:01,006 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11029.htm
+2024-11-10 00:05:03,029 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:03,055 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11092.htm
+2024-11-10 00:05:05,116 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:05,152 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11071.htm
+2024-11-10 00:05:07,974 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:08,000 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11060.htm
+2024-11-10 00:05:11,015 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:11,043 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11052.htm
+2024-11-10 00:05:13,019 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:13,048 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11087.htm
+2024-11-10 00:05:17,847 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:17,874 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11053.htm
+2024-11-10 00:05:20,375 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:20,401 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11044.htm
+2024-11-10 00:05:22,625 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:22,655 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11054.htm
+2024-11-10 00:05:25,331 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:25,351 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11048.htm
+2024-11-10 00:05:28,150 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:28,162 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11103.htm
+2024-11-10 00:05:31,970 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:32,006 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11049.htm
+2024-11-10 00:05:34,104 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:34,135 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11077.htm
+2024-11-10 00:05:37,950 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:37,978 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11078.htm
+2024-11-10 00:05:40,979 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:41,013 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11076.htm
+2024-11-10 00:05:43,956 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:43,983 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11030.htm
+2024-11-10 00:05:47,085 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:05:47,118 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11072.htm
+2024-11-10 00:06:09,881 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:09,900 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11059.htm
+2024-11-10 00:06:12,793 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:13,011 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11104.htm
+2024-11-10 00:06:17,732 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:17,760 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11009.htm
+2024-11-10 00:06:21,113 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:21,151 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11039.htm
+2024-11-10 00:06:23,672 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:23,688 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11050.htm
+2024-11-10 00:06:25,732 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:25,747 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11091.htm
+2024-11-10 00:06:45,290 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:45,328 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11010.htm
+2024-11-10 00:06:58,369 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:06:58,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11033.htm
+2024-11-10 00:07:18,569 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:18,603 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11099.htm
+2024-11-10 00:07:27,525 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:27,554 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11063.htm
+2024-11-10 00:07:49,457 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:49,502 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11055.htm
+2024-11-10 00:07:51,926 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:07:51,952 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11073.htm
+2024-11-10 00:08:15,405 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:17,483 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11084.htm
+2024-11-10 00:08:19,386 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:19,402 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11064.htm
+2024-11-10 00:08:23,074 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:23,102 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11094.htm
+2024-11-10 00:08:25,673 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:25,689 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11058.htm
+2024-11-10 00:08:44,201 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:08:44,232 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11047.htm
+2024-11-10 00:09:27,134 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:27,182 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11085.htm
+2024-11-10 00:09:31,356 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:31,388 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11100.htm
+2024-11-10 00:09:34,767 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:34,783 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11042.htm
+2024-11-10 00:09:38,105 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:38,120 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11013.htm
+2024-11-10 00:09:42,887 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:09:42,927 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11006.htm
+2024-11-10 00:10:03,682 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:10:03,726 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11062.htm
+2024-11-10 00:10:50,822 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:10:50,852 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11014.htm
+2024-11-10 00:11:09,442 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:09,474 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11090.htm
+2024-11-10 00:11:12,754 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:12,799 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11056.htm
+2024-11-10 00:11:31,485 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:31,521 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11095.htm
+2024-11-10 00:11:36,419 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:36,450 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11066.htm
+2024-11-10 00:11:45,692 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:45,727 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11067.htm
+2024-11-10 00:11:55,446 - INFO - 94 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:11:55,476 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11046.htm
+2024-11-10 00:12:12,627 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:12,723 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11101.htm
+2024-11-10 00:12:24,135 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:24,169 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11057.htm
+2024-11-10 00:12:28,529 - INFO - 92 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:28,558 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11096.htm
+2024-11-10 00:12:31,103 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:31,134 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11045.htm
+2024-11-10 00:12:34,712 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:34,752 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11102.htm
+2024-11-10 00:12:38,101 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:38,116 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11080.htm
+2024-11-10 00:12:41,026 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:41,056 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11093.htm
+2024-11-10 00:12:46,085 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:46,105 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11098.htm
+2024-11-10 00:12:50,232 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:50,262 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps11040.htm
+2024-11-10 00:12:52,489 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:12:52,523 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12002.htm
+2024-11-10 00:13:49,573 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:13:49,608 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12009.htm
+2024-11-10 00:13:56,246 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:13:56,277 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12034.htm
+2024-11-10 00:13:59,681 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:13:59,714 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12035.htm
+2024-11-10 00:14:04,151 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:14:04,169 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12038.htm
+2024-11-10 00:14:31,390 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:14:31,422 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12039.htm
+2024-11-10 00:15:01,553 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:01,586 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12016.htm
+2024-11-10 00:15:06,756 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:06,785 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12036.htm
+2024-11-10 00:15:21,590 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:21,626 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12037.htm
+2024-11-10 00:15:45,222 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:45,259 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12013.htm
+2024-11-10 00:15:52,152 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:52,197 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxclps12014.htm
+2024-11-10 00:15:55,575 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:55,576 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:15:55,681 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_cnst.htm
+2024-11-10 00:15:55,735 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst08001.htm
+2024-11-10 00:15:58,342 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:58,394 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst08002.htm
+2024-11-10 00:16:00,859 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:00,890 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11079.htm
+2024-11-10 00:16:10,471 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:10,498 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11061.htm
+2024-11-10 00:16:13,636 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:13,664 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11053.htm
+2024-11-10 00:16:18,783 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:18,809 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11034.htm
+2024-11-10 00:16:21,439 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:21,466 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11090.htm
+2024-11-10 00:16:24,362 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:24,389 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11047.htm
+2024-11-10 00:16:26,823 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:26,857 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11076.htm
+2024-11-10 00:16:29,460 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:29,490 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11075.htm
+2024-11-10 00:16:31,508 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:31,533 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11041.htm
+2024-11-10 00:16:34,297 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:34,323 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11068.htm
+2024-11-10 00:16:37,389 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:37,414 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11088.htm
+2024-11-10 00:16:39,194 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:39,221 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11089.htm
+2024-11-10 00:17:07,085 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:07,103 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11080.htm
+2024-11-10 00:17:09,170 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:09,196 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11086.htm
+2024-11-10 00:17:16,070 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:16,096 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11081.htm
+2024-11-10 00:17:19,513 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:19,748 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11012.htm
+2024-11-10 00:17:39,614 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:39,654 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11043.htm
+2024-11-10 00:17:41,611 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:41,649 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11077.htm
+2024-11-10 00:18:02,903 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:02,944 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11087.htm
+2024-11-10 00:18:05,389 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:05,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11084.htm
+2024-11-10 00:18:08,757 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:08,796 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11046.htm
+2024-11-10 00:18:13,429 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:13,880 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11014.htm
+2024-11-10 00:18:16,132 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:16,781 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11091.htm
+2024-11-10 00:18:27,069 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:27,108 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11062.htm
+2024-11-10 00:18:29,709 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:29,734 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11093.htm
+2024-11-10 00:18:59,321 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:59,342 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11094.htm
+2024-11-10 00:19:03,046 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:03,074 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11085.htm
+2024-11-10 00:19:22,294 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:22,328 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11051.htm
+2024-11-10 00:19:26,630 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:26,658 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11082.htm
+2024-11-10 00:19:28,343 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:28,375 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11040.htm
+2024-11-10 00:19:31,381 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:31,409 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11042.htm
+2024-11-10 00:19:33,932 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:33,946 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12007.htm
+2024-11-10 00:19:47,739 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:47,771 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12013.htm
+2024-11-10 00:19:50,806 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:50,835 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12018.htm
+2024-11-10 00:19:58,361 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:58,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12021.htm
+2024-11-10 00:20:40,965 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:40,998 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12023.htm
+2024-11-10 00:20:46,809 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:46,838 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12017.htm
+2024-11-10 00:20:50,493 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:50,523 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12016.htm
+2024-11-10 00:20:54,005 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:54,035 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12020.htm
+2024-11-10 00:20:57,029 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:57,059 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12022.htm
+2024-11-10 00:20:59,269 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:59,298 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12024.htm
+2024-11-10 00:21:02,034 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:02,061 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12019.htm
+2024-11-10 00:21:11,805 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:11,841 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12010.htm
+2024-11-10 00:21:28,170 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:28,192 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12015.htm
+2024-11-10 00:21:32,140 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:32,167 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12014.htm
+2024-11-10 00:21:34,249 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:34,278 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12012.htm
+2024-11-10 00:21:37,496 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:37,496 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:21:37,696 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_issh.htm
+2024-11-10 00:21:37,746 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11026.htm
+2024-11-10 00:21:39,414 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:39,441 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11021.htm
+2024-11-10 00:21:42,790 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:42,816 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11011.htm
+2024-11-10 00:21:45,933 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:45,965 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11018.htm
+2024-11-10 00:21:48,290 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:48,316 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11017.htm
+2024-11-10 00:21:50,315 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:50,342 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11016.htm
+2024-11-10 00:21:53,179 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:53,204 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11024.htm
+2024-11-10 00:21:55,333 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:55,361 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11007.htm
+2024-11-10 00:22:06,144 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:06,174 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11010.htm
+2024-11-10 00:22:08,206 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:08,232 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11023.htm
+2024-11-10 00:22:27,196 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:27,197 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:22:27,362 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_nust.htm
+2024-11-10 00:22:27,448 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08026.htm
+2024-11-10 00:22:29,292 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:29,323 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08024.htm
+2024-11-10 00:22:33,449 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:33,477 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08025.htm
+2024-11-10 00:22:36,229 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:36,257 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08022.htm
+2024-11-10 00:22:38,305 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:38,329 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08023.htm
+2024-11-10 00:22:42,390 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:42,420 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08027.htm
+2024-11-10 00:22:45,461 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:45,488 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08019.htm
+2024-11-10 00:22:47,423 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:47,451 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08020.htm
+2024-11-10 00:22:49,962 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:49,988 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08021.htm
+2024-11-10 00:22:55,120 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:55,146 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10035.htm
+2024-11-10 00:22:57,281 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:57,294 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10062.htm
+2024-11-10 00:23:16,058 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:23:16,086 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10022.htm
+2024-11-10 00:23:18,006 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:23:18,033 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10033.htm
+2024-11-10 00:24:13,002 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:13,019 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10005.htm
+2024-11-10 00:24:14,834 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:14,847 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10057.htm
+2024-11-10 00:24:17,545 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:17,633 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10002.htm
+2024-11-10 00:24:21,266 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:21,279 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10050.htm
+2024-11-10 00:24:24,160 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:24,190 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10044.htm
+2024-11-10 00:24:31,192 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:31,219 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10036.htm
+2024-11-10 00:24:34,599 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:34,625 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10055.htm
+2024-11-10 00:24:45,582 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:45,611 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10059.htm
+2024-11-10 00:24:48,916 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:48,943 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10045.htm
+2024-11-10 00:25:27,273 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:25:27,304 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10051.htm
+2024-11-10 00:26:13,538 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:13,978 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10008.htm
+2024-11-10 00:26:17,042 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:17,058 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10061.htm
+2024-11-10 00:26:20,083 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:20,100 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10046.htm
+2024-11-10 00:26:23,199 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:23,231 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10053.htm
+2024-11-10 00:26:26,106 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:26,138 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10054.htm
+2024-11-10 00:26:28,436 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:28,447 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10043.htm
+2024-11-10 00:26:31,929 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:31,964 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10060.htm
+2024-11-10 00:26:36,350 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:36,379 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10052.htm
+2024-11-10 00:26:39,636 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:39,668 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10058.htm
+2024-11-10 00:26:45,439 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:45,468 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10030.htm
+2024-11-10 00:26:47,741 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:47,772 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10056.htm
+2024-11-10 00:27:01,409 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:01,443 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10047.htm
+2024-11-10 00:27:03,741 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:03,756 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11099.htm
+2024-11-10 00:27:10,057 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:10,091 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11121.htm
+2024-11-10 00:27:13,145 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:13,174 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11116.htm
+2024-11-10 00:27:16,201 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:16,228 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11110.htm
+2024-11-10 00:27:21,609 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:21,640 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11111.htm
+2024-11-10 00:27:24,401 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:24,430 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11113.htm
+2024-11-10 00:27:59,271 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:59,292 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11048.htm
+2024-11-10 00:28:05,058 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:05,465 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11085.htm
+2024-11-10 00:28:08,423 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:08,458 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11080.htm
+2024-11-10 00:28:16,886 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:16,911 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11091.htm
+2024-11-10 00:28:19,902 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:19,918 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11092.htm
+2024-11-10 00:28:22,050 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:22,079 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11088.htm
+2024-11-10 00:28:24,857 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:24,896 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11082.htm
+2024-11-10 00:28:27,418 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:27,434 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11102.htm
+2024-11-10 00:28:30,963 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:30,998 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11058.htm
+2024-11-10 00:28:34,787 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:34,813 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11033.htm
+2024-11-10 00:28:37,599 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:37,616 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11125.htm
+2024-11-10 00:28:42,248 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:42,266 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11089.htm
+2024-11-10 00:28:59,627 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:59,677 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11107.htm
+2024-11-10 00:29:29,246 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:29,284 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11095.htm
+2024-11-10 00:29:31,534 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:31,561 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11124.htm
+2024-11-10 00:29:35,104 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:35,135 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11112.htm
+2024-11-10 00:30:16,389 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:16,412 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11096.htm
+2024-11-10 00:30:19,144 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:19,185 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11106.htm
+2024-11-10 00:30:22,419 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:22,454 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11087.htm
+2024-11-10 00:31:04,526 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:04,564 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11105.htm
+2024-11-10 00:31:50,166 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:50,196 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11090.htm
+2024-11-10 00:31:53,604 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:53,628 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11093.htm
+2024-11-10 00:32:01,782 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:01,815 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11109.htm
+2024-11-10 00:32:32,737 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:32,771 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11123.htm
+2024-11-10 00:32:39,044 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:39,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11122.htm
+2024-11-10 00:33:06,173 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:06,207 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11115.htm
+2024-11-10 00:33:09,749 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:09,780 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11046.htm
+2024-11-10 00:33:19,499 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:19,533 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11101.htm
+2024-11-10 00:33:24,929 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:24,958 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11103.htm
+2024-11-10 00:33:29,031 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:29,060 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11100.htm
+2024-11-10 00:33:32,300 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:32,334 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11119.htm
+2024-11-10 00:33:36,049 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:36,080 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11081.htm
+2024-11-10 00:33:38,726 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:38,754 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11097.htm
+2024-11-10 00:33:44,597 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:44,631 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11104.htm
+2024-11-10 00:33:48,540 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:48,556 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11114.htm
+2024-11-10 00:33:52,817 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:52,836 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11083.htm
+2024-11-10 00:33:57,194 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:57,209 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11120.htm
+2024-11-10 00:34:00,975 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:01,012 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11117.htm
+2024-11-10 00:34:04,847 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:05,355 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11059.htm
+2024-11-10 00:34:08,255 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:08,284 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11060.htm
+2024-11-10 00:34:11,255 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:11,287 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11118.htm
+2024-11-10 00:34:39,293 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:39,337 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11078.htm
+2024-11-10 00:34:46,775 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:46,821 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11077.htm
+2024-11-10 00:34:55,346 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:55,379 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11052.htm
+2024-11-10 00:34:58,685 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:58,714 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11098.htm
+2024-11-10 00:35:01,997 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:02,014 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11075.htm
+2024-11-10 00:35:05,740 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:05,775 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:10,179 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:10,216 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:15,529 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:15,562 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:18,856 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:18,891 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11013.htm
+2024-11-10 00:35:22,956 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:22,981 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11094.htm
+2024-11-10 00:35:27,473 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:27,503 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11084.htm
+2024-11-10 00:35:30,905 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:30,906 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:35:31,085 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_shss.htm
+2024-11-10 00:35:31,134 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08004.htm
+2024-11-10 00:35:34,340 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:34,369 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08002.htm
+2024-11-10 00:35:40,077 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:40,104 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08006.htm
+2024-11-10 00:35:48,609 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:48,636 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08005.htm
+2024-11-10 00:35:52,502 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:52,538 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08003.htm
+2024-11-10 00:35:56,000 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:56,026 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08001.htm
+2024-11-10 00:35:58,102 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:58,115 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10008.htm
+2024-11-10 00:35:59,986 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:00,002 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10011.htm
+2024-11-10 00:36:19,369 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:19,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10003.htm
+2024-11-10 00:36:22,794 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:22,821 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10007.htm
+2024-11-10 00:37:04,324 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:04,355 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10009.htm
+2024-11-10 00:37:06,706 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:06,735 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10012.htm
+2024-11-10 00:37:23,410 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:23,442 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10010.htm
+2024-11-10 00:37:26,385 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:26,416 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10006.htm
+2024-11-10 00:37:34,847 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:34,893 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10005.htm
+2024-11-10 00:37:37,444 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:37,473 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10004.htm
+2024-11-10 00:37:39,995 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:40,032 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10001.htm
+2024-11-10 00:38:19,439 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:38:19,470 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10002.htm
+2024-11-10 00:38:58,564 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:38:58,597 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11003.htm
+2024-11-10 00:39:03,573 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:03,602 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11001.htm
+2024-11-10 00:39:06,025 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:06,053 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11002.htm
+2024-11-10 00:39:20,719 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:20,720 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+lexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:15:55,681 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_cnst.htm
+2024-11-10 00:15:55,735 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst08001.htm
+2024-11-10 00:15:58,342 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:15:58,394 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst08002.htm
+2024-11-10 00:16:00,859 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:00,890 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11079.htm
+2024-11-10 00:16:10,471 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:10,498 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11061.htm
+2024-11-10 00:16:13,636 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:13,664 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11053.htm
+2024-11-10 00:16:18,783 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:18,809 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11034.htm
+2024-11-10 00:16:21,439 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:21,466 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11090.htm
+2024-11-10 00:16:24,362 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:24,389 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11047.htm
+2024-11-10 00:16:26,823 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:26,857 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11076.htm
+2024-11-10 00:16:29,460 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:29,490 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11075.htm
+2024-11-10 00:16:31,508 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:31,533 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11041.htm
+2024-11-10 00:16:34,297 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:34,323 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11068.htm
+2024-11-10 00:16:37,389 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:37,414 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11088.htm
+2024-11-10 00:16:39,194 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:16:39,221 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11089.htm
+2024-11-10 00:17:07,085 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:07,103 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11080.htm
+2024-11-10 00:17:09,170 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:09,196 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11086.htm
+2024-11-10 00:17:16,070 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:16,096 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11081.htm
+2024-11-10 00:17:19,513 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:19,748 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11012.htm
+2024-11-10 00:17:39,614 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:39,654 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11043.htm
+2024-11-10 00:17:41,611 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:17:41,649 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11077.htm
+2024-11-10 00:18:02,903 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:02,944 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11087.htm
+2024-11-10 00:18:05,389 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:05,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11084.htm
+2024-11-10 00:18:08,757 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:08,796 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11046.htm
+2024-11-10 00:18:13,429 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:13,880 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11014.htm
+2024-11-10 00:18:16,132 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:16,781 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11091.htm
+2024-11-10 00:18:27,069 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:27,108 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11062.htm
+2024-11-10 00:18:29,709 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:29,734 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11093.htm
+2024-11-10 00:18:59,321 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:18:59,342 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11094.htm
+2024-11-10 00:19:03,046 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:03,074 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11085.htm
+2024-11-10 00:19:22,294 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:22,328 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11051.htm
+2024-11-10 00:19:26,630 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:26,658 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11082.htm
+2024-11-10 00:19:28,343 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:28,375 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11040.htm
+2024-11-10 00:19:31,381 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:31,409 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst11042.htm
+2024-11-10 00:19:33,932 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:33,946 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12007.htm
+2024-11-10 00:19:47,739 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:47,771 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12013.htm
+2024-11-10 00:19:50,806 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:50,835 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12018.htm
+2024-11-10 00:19:58,361 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:19:58,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12021.htm
+2024-11-10 00:20:40,965 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:40,998 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12023.htm
+2024-11-10 00:20:46,809 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:46,838 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12017.htm
+2024-11-10 00:20:50,493 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:50,523 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12016.htm
+2024-11-10 00:20:54,005 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:54,035 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12020.htm
+2024-11-10 00:20:57,029 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:57,059 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12022.htm
+2024-11-10 00:20:59,269 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:20:59,298 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12024.htm
+2024-11-10 00:21:02,034 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:02,061 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12019.htm
+2024-11-10 00:21:11,805 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:11,841 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12010.htm
+2024-11-10 00:21:28,170 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:28,192 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12015.htm
+2024-11-10 00:21:32,140 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:32,167 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12014.htm
+2024-11-10 00:21:34,249 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:34,278 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxcnst12012.htm
+2024-11-10 00:21:37,496 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:37,496 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:21:37,696 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_issh.htm
+2024-11-10 00:21:37,746 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11026.htm
+2024-11-10 00:21:39,414 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:39,441 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11021.htm
+2024-11-10 00:21:42,790 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:42,816 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11011.htm
+2024-11-10 00:21:45,933 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:45,965 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11018.htm
+2024-11-10 00:21:48,290 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:48,316 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11017.htm
+2024-11-10 00:21:50,315 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:50,342 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11016.htm
+2024-11-10 00:21:53,179 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:53,204 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11024.htm
+2024-11-10 00:21:55,333 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:21:55,361 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11007.htm
+2024-11-10 00:22:06,144 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:06,174 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11010.htm
+2024-11-10 00:22:08,206 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:08,232 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxissh11023.htm
+2024-11-10 00:22:27,196 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:27,197 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:22:27,362 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_nust.htm
+2024-11-10 00:22:27,448 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08026.htm
+2024-11-10 00:22:29,292 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:29,323 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08024.htm
+2024-11-10 00:22:33,449 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:33,477 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08025.htm
+2024-11-10 00:22:36,229 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:36,257 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08022.htm
+2024-11-10 00:22:38,305 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:38,329 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08023.htm
+2024-11-10 00:22:42,390 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:42,420 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08027.htm
+2024-11-10 00:22:45,461 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:45,488 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08019.htm
+2024-11-10 00:22:47,423 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:47,451 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08020.htm
+2024-11-10 00:22:49,962 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:49,988 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust08021.htm
+2024-11-10 00:22:55,120 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:55,146 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10035.htm
+2024-11-10 00:22:57,281 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:22:57,294 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10062.htm
+2024-11-10 00:23:16,058 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:23:16,086 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10022.htm
+2024-11-10 00:23:18,006 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:23:18,033 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10033.htm
+2024-11-10 00:24:13,002 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:13,019 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10005.htm
+2024-11-10 00:24:14,834 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:14,847 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10057.htm
+2024-11-10 00:24:17,545 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:17,633 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10002.htm
+2024-11-10 00:24:21,266 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:21,279 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10050.htm
+2024-11-10 00:24:24,160 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:24,190 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10044.htm
+2024-11-10 00:24:31,192 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:31,219 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10036.htm
+2024-11-10 00:24:34,599 - INFO - 88 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:34,625 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10055.htm
+2024-11-10 00:24:45,582 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:45,611 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10059.htm
+2024-11-10 00:24:48,916 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:24:48,943 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10045.htm
+2024-11-10 00:25:27,273 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:25:27,304 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10051.htm
+2024-11-10 00:26:13,538 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:13,978 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10008.htm
+2024-11-10 00:26:17,042 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:17,058 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10061.htm
+2024-11-10 00:26:20,083 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:20,100 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10046.htm
+2024-11-10 00:26:23,199 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:23,231 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10053.htm
+2024-11-10 00:26:26,106 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:26,138 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10054.htm
+2024-11-10 00:26:28,436 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:28,447 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10043.htm
+2024-11-10 00:26:31,929 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:31,964 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10060.htm
+2024-11-10 00:26:36,350 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:36,379 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10052.htm
+2024-11-10 00:26:39,636 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:39,668 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10058.htm
+2024-11-10 00:26:45,439 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:45,468 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10030.htm
+2024-11-10 00:26:47,741 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:26:47,772 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10056.htm
+2024-11-10 00:27:01,409 - INFO - 90 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:01,443 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust10047.htm
+2024-11-10 00:27:03,741 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:03,756 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11099.htm
+2024-11-10 00:27:10,057 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:10,091 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11121.htm
+2024-11-10 00:27:13,145 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:13,174 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11116.htm
+2024-11-10 00:27:16,201 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:16,228 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11110.htm
+2024-11-10 00:27:21,609 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:21,640 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11111.htm
+2024-11-10 00:27:24,401 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:24,430 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11113.htm
+2024-11-10 00:27:59,271 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:27:59,292 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11048.htm
+2024-11-10 00:28:05,058 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:05,465 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11085.htm
+2024-11-10 00:28:08,423 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:08,458 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11080.htm
+2024-11-10 00:28:16,886 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:16,911 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11091.htm
+2024-11-10 00:28:19,902 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:19,918 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11092.htm
+2024-11-10 00:28:22,050 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:22,079 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11088.htm
+2024-11-10 00:28:24,857 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:24,896 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11082.htm
+2024-11-10 00:28:27,418 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:27,434 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11102.htm
+2024-11-10 00:28:30,963 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:30,998 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11058.htm
+2024-11-10 00:28:34,787 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:34,813 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11033.htm
+2024-11-10 00:28:37,599 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:37,616 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11125.htm
+2024-11-10 00:28:42,248 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:42,266 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11089.htm
+2024-11-10 00:28:59,627 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:28:59,677 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11107.htm
+2024-11-10 00:29:29,246 - INFO - 63 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:29,284 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11095.htm
+2024-11-10 00:29:31,534 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:31,561 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11124.htm
+2024-11-10 00:29:35,104 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:29:35,135 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11112.htm
+2024-11-10 00:30:16,389 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:16,412 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11096.htm
+2024-11-10 00:30:19,144 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:19,185 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11106.htm
+2024-11-10 00:30:22,419 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:30:22,454 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11087.htm
+2024-11-10 00:31:04,526 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:04,564 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11105.htm
+2024-11-10 00:31:50,166 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:50,196 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11090.htm
+2024-11-10 00:31:53,604 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:31:53,628 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11093.htm
+2024-11-10 00:32:01,782 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:01,815 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11109.htm
+2024-11-10 00:32:32,737 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:32,771 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11123.htm
+2024-11-10 00:32:39,044 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:32:39,403 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11122.htm
+2024-11-10 00:33:06,173 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:06,207 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11115.htm
+2024-11-10 00:33:09,749 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:09,780 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11046.htm
+2024-11-10 00:33:19,499 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:19,533 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11101.htm
+2024-11-10 00:33:24,929 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:24,958 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11103.htm
+2024-11-10 00:33:29,031 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:29,060 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11100.htm
+2024-11-10 00:33:32,300 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:32,334 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11119.htm
+2024-11-10 00:33:36,049 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:36,080 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11081.htm
+2024-11-10 00:33:38,726 - INFO - 65 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:38,754 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11097.htm
+2024-11-10 00:33:44,597 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:44,631 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11104.htm
+2024-11-10 00:33:48,540 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:48,556 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11114.htm
+2024-11-10 00:33:52,817 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:52,836 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11083.htm
+2024-11-10 00:33:57,194 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:33:57,209 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11120.htm
+2024-11-10 00:34:00,975 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:01,012 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11117.htm
+2024-11-10 00:34:04,847 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:05,355 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11059.htm
+2024-11-10 00:34:08,255 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:08,284 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11060.htm
+2024-11-10 00:34:11,255 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:11,287 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11118.htm
+2024-11-10 00:34:39,293 - INFO - 86 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:39,337 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11078.htm
+2024-11-10 00:34:46,775 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:46,821 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11077.htm
+2024-11-10 00:34:55,346 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:55,379 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11052.htm
+2024-11-10 00:34:58,685 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:34:58,714 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11098.htm
+2024-11-10 00:35:01,997 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:02,014 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11075.htm
+2024-11-10 00:35:05,740 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:05,775 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:10,179 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:10,216 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:15,529 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:15,562 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11108.htm
+2024-11-10 00:35:18,856 - INFO - 114 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:18,891 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11013.htm
+2024-11-10 00:35:22,956 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:22,981 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11094.htm
+2024-11-10 00:35:27,473 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:27,503 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxnust11084.htm
+2024-11-10 00:35:30,905 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:30,906 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.
+2024-11-10 00:35:31,085 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_shss.htm
+2024-11-10 00:35:31,134 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08004.htm
+2024-11-10 00:35:34,340 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:34,369 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08002.htm
+2024-11-10 00:35:40,077 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:40,104 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08006.htm
+2024-11-10 00:35:48,609 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:48,636 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08005.htm
+2024-11-10 00:35:52,502 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:52,538 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08003.htm
+2024-11-10 00:35:56,000 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:56,026 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss08001.htm
+2024-11-10 00:35:58,102 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:35:58,115 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10008.htm
+2024-11-10 00:35:59,986 - INFO - 80 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:00,002 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10011.htm
+2024-11-10 00:36:19,369 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:19,390 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10003.htm
+2024-11-10 00:36:22,794 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:36:22,821 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10007.htm
+2024-11-10 00:37:04,324 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:04,355 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10009.htm
+2024-11-10 00:37:06,706 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:06,735 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10012.htm
+2024-11-10 00:37:23,410 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:23,442 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10010.htm
+2024-11-10 00:37:26,385 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:26,416 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10006.htm
+2024-11-10 00:37:34,847 - INFO - 84 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:34,893 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10005.htm
+2024-11-10 00:37:37,444 - INFO - 82 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:37,473 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10004.htm
+2024-11-10 00:37:39,995 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:37:40,032 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10001.htm
+2024-11-10 00:38:19,439 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:38:19,470 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss10002.htm
+2024-11-10 00:38:58,564 - INFO - 69 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:38:58,597 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11003.htm
+2024-11-10 00:39:03,573 - INFO - 78 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:03,602 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11001.htm
+2024-11-10 00:39:06,025 - INFO - 71 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:06,053 - INFO - Visiting: http://www.drps.ed.ac.uk/23-24/dpt/cxshss11002.htm
+2024-11-10 00:39:20,719 - INFO - 67 instances updated to ./data_container/24_11_09_22_45_26/23-24_cx_s_su796.htm.csv.
+2024-11-10 00:39:20,720 - INFO - Mining for keywords ['inclusive', 'equitable', 'universal', 'user-friendly', 'adaptable', 'assistive', 'affordable', 'efficient', 'accommodating', 'empowering', 'barrier-free', 'accessible', 'comprehensive', 'flexible', 'supportive', 'usable', 'welcoming', 'enhanced', 'reachable', 'convenient', 'open', 'connected', 'engaging', 'enabling', 'progressive', 'Web Content Accessibility guidelines', 'WCAG', 'PSBAR', 'access', 'accessibility', 'inaccessible', 'exclusive', 'limited', 'complicated', 'expensive', 'difficult', 'barrier', 'restrictive', 'challenging', 'problematic', 'unaccommodating', 'inefficient', 'isolating', 'segregated', 'obsolete', 'unreachable', 'demanding', 'outdated', 'burdensome', 'unfriendly', 'discriminatory', 'hindered', 'nonfunctional', 'alienating', 'prohibitive', 'design', 'disabled', 'impairement'] is success.

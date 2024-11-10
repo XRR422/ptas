@@ -10,7 +10,7 @@ positive_accessibility_words = [
     "barrier-free", "accessible", "comprehensive", "flexible", "supportive",
     "usable", "welcoming", "enhanced", "reachable", "convenient", 
     "open", "connected", "engaging", "enabling", "progressive", "Web Content Accessibility guidelines", "WCAG",
-    "PSBAR", "access"
+    "PSBAR", "access", "accessibility"
 ]
 
 negative_accessibility_words = [
