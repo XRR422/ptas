@@ -1,9 +1,14 @@
 DRPS_keys_of_interest = {
     "Course Outline": ["Summary", "Course description"],
-    "Course Delivery Information": ["Additional Information (Assessment)", "Feedback"],
-    "Learning Outcomes": ["all"],
+    #"Course Delivery Information": ["Feedback"],
+    "Learning Outcomes": ["Learning Outcomes"],
     "Additional Information": ["Graduate Attributes and Skills", "Keywords"]
 }
+
+DRPS_values_of_interest = []
+for key_i in DRPS_keys_of_interest.keys():
+    for v_i in DRPS_keys_of_interest[key_i]:
+        DRPS_values_of_interest.append(v_i)
 
 sub_urls_of_school = {
     "cx_s_su747.htm": ['cx_sb_epcc.htm', 'cx_sb_epcd.htm', 'cx_sb_infd.htm', 'cx_sb_infr.htm'],
@@ -32,4 +37,5 @@ neutral_accessibility_words = ["design", "disabled", "impairement"]
 
 Accessibility_List = positive_accessibility_words + negative_accessibility_words + neutral_accessibility_words
 
-Chatbot_accessibility_words = ["Accessibility awareness", "Inclusive design", "Universal design", "Accessible technology", "Disability rights", "Assistive technologies", "Barrier-free", "Equity and access in education", "Americans with Disabilities Act compliance", "Web Content Accessibility Guidelines", "Sensory impairments", "Mobility challenges", "Learning differences", "Adaptive learning tools", "Inclusive teaching strategies"]
+Chatbot_accessibility_words = ["Accessibility", "Inclusive design", "Disability rights", "Adaptive tools"]
+Chatbot_accessibility_words = ','.join(Chatbot_accessibility_words)

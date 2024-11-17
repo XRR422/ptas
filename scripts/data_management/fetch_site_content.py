@@ -103,33 +103,31 @@ class crawl_class:
 
     def format_html_tabel_content(self, table_elements):
         table_dic = {}
-        caption_ls = list(DRPS_keys_of_interest.keys())
-        for each_caption in caption_ls:
-            if each_caption == "Course Delivery Information": 
-                print('Debug')
-            caption_table = [i for i in table_elements if each_caption in i.text]
-            if each_caption == "Learning Outcomes":
-                td_elements = caption_table.text
-                clean_td_elements = re.sub(r'\s+', ' ', td_elements)
-                clean_td_elements = clean_td_elements.replace('\n', ' ').strip()
-                table_dic["Learning Outcomes"] = clean_td_elements
+        for each_keyword in DRPS_values_of_interest:
+            found = False
+            if each_keyword == "Learning Outcomes":
+                for each_table in table_elements:
+                    caption = each_table.find('caption')
+                    if caption and 'Learning Outcomes' in caption.text:
+                        td_elements = each_table.find_all('td')
+                        for sibling in caption.find_next_siblings():
+                            if sibling.name == 'tr':
+                                td_elements = sibling.find_all('td')
+                                table_dic[each_keyword] = td_elements[0].text.strip()
+                                found = True
+                if not found:
+                    table_dic[each_keyword] = 'Not found in DRPS.'
             else:
-                caption_elements = caption_table.find_all('td')
-                for td in DRPS_keys_of_interest[each_caption]:
-                    td_elements_seq = None
-                    index = 0
-                    for ele in caption_elements:
-                        if td in ele.text:
-                            td_elements_seq = index
-                            td_elements = caption_elements[index+1].text
-                            continue
-                        index += 1
-                    if td_elements_seq is None:
-                        td_elements = [i for i in caption_elements if td in i.text]
-                        td_elements = ''.join([i.nextSibling.text for i in td_elements])
-                    clean_td_elements = re.sub(r'\s+', ' ', td_elements)
-                    clean_td_elements = clean_td_elements.replace('\n', ' ').strip()
-                    table_dic[td] = clean_td_elements
+                for each_table in table_elements:
+                    td_in_each_table = each_table.find_all('td')
+                    for i in range(len(td_in_each_table)-1):
+                        if each_keyword in td_in_each_table[i].text:
+                            table_dic[each_keyword] = td_in_each_table[i+1].text.strip()
+                            found = True
+                            break
+                    if found: break
+                if not found:
+                    table_dic[each_keyword] = 'Not found in DRPS.'
         return table_dic
             
             
@@ -150,38 +148,54 @@ class crawl_class:
             if (suburl_response.status_code != 200):
                 self.logger.info(f"Failed to access {full_link}")
             self.logger.info(f"Visiting: {full_link}")
-            keyword_sentences = []
+            interested_sentences = {}
             if self.is_valid_url(base_url, full_link) and full_link not in self.visited:
                 suburl_soup = BeautifulSoup(suburl_response.text, 'html.parser')
-                table_elements = suburl_soup.find_all('table')
-                sentences = self.format_html_tabel_content(table_elements)
+                course_title = suburl_soup.find_all('title')
+                if len(course_title) == 1:
+                    course_title = course_title[0].text.strip()
+                    course_title = course_title.split(' - ')[1].strip()
+                else:
+                    course_title = link
+                table_elements = suburl_soup.body.find_all('table', recursive=False)
+                main_tablebody = table_elements[1]
+                main_tablebody_elements = main_tablebody.find_all('table', recursive=True)
+                interested_sentences = self.format_html_tabel_content(main_tablebody_elements)
+                interested_sentences['Course title'] = course_title
                 client = openai.OpenAI( api_key="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",)
-                response = client.chat.completions.create(model="gpt-3.5-turbo", # model to use from Models Tab
-                        messages = [
-                                {
-                                    "role": "system",
-                                    "content": f"Imagine, you are you are educator investigating any evidences in course description, which embed educate students to consider accessibility."
-                                },
-                                {
-                                    "role": "user",
-                                    "content": f"Select sentences related to keywords {keywords} from HTML contents: {'|'.join(sentences)}"
-                                },
-                                {
-                                    "role": "user",
-                                    "content": f"Organise extracted sentences by number 1, 2, 3, etc..."
-                                }
-                            ]
-                )
+                for each_keyword in DRPS_values_of_interest:
+                    newcol = f"{each_keyword}-accessibility-evidences-output"
+                    response = client.chat.completions.create(model="gpt-3.5-turbo", # model to use from Models Tab
+                            messages = [
+                                    {
+                                        "role": "system",
+                                        "content": f"Imagine, you are a strict educator investigating whether the course is teaching students to be a person considering {Chatbot_accessibility_words}. Do not explain your answer. Can you find words from the given paragraph reflect the accessibility?"
+                                    },
+                                    {
+                                        "role": "user",
+                                        "content": f"The given paragraph is {interested_sentences[each_keyword]}."
+                                    },
+                                    {
+                                        "role": "user",
+                                        "content": f"Output NO THERE ISNOT, if there is not. Otherwise, Output YES THERE IS."
+                                    },
+                                    {
+                                        "role": "user",
+                                        "content": f"If there is, append words after 'YES THERE IS', reflect accessibility."
+                                    }
+                                ]
+                    )
+                    interested_sentences[newcol] = response.choices[0].message.content
                 
-                if sentences:
-                    for sentence in sentences:
-                        keyword_sentences.append({"URL": full_link, "Sentence": response, "Keywords": ','.join(keywords)})
-            if len(keyword_sentences) > 0:
-                self.save_to_csv(keyword_sentences)
+                
+            if len(interested_sentences) > 0:
+                self.save_to_csv(interested_sentences)
         return {"status": True, "last_visit": full_link, "comment": "success"}
     
     def save_to_csv(self, data):
         exist_df = pd.read_csv(self.csv_filename)
+        for i in data.keys():
+            data[i] = ["".join(data[i])]
         df = pd.DataFrame(data)
         new_df = pd.concat([exist_df, df], ignore_index=True)
         new_df.to_csv(self.csv_filename, index=False)

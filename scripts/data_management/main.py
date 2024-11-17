@@ -8,7 +8,7 @@ import datetime
 import logging
 current_time = datetime.datetime.now()
 formatted_time = current_time.strftime('%y_%m_%d_%H_%M_%S')
-YEARS = ["23-24"]
+YEARS = ["24-25"]
 SCHOOL_CODES = sub_urls_of_school.keys()
 
 def fetch_sites_match_any_keywords():
@@ -47,7 +47,7 @@ def fetch_sites_match_any_keywords():
                         logger.info(f"Mining for keywords {keyword} is unsuccess. The last url attempted to access is {finish_or_not['last_visit']}. Reason: {finish_or_not['comment']}")
 
 def fetch_sites_relevant_to_keywords():
-    local_kw = Chatbot_accessibility_words.copy()
+    local_kw = Chatbot_accessibility_words
     for YEAR in YEARS:
         for SCHOOL_CODE in SCHOOL_CODES:
             ls_suburl_of_school = sub_urls_of_school[SCHOOL_CODE]
