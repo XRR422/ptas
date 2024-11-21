@@ -5,8 +5,26 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+from wordcloud import WordCloud
+from setting.variables_config import *
 
+
+words_to_remove = {'YES', 'THERE', 'IS'} | set(Chatbot_accessibility_words_ls)
 FIG_SIZE=(5.8*2.5, 3*2)
+def plot_word_cloud(df_column, ax):
+    # Convert the DataFrame column to a single string
+    text = ' '.join(df_column.dropna().astype(str))  # Drop NA values and convert to string
+    
+    # Generate a word cloud image
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+
+    # Display the generated image using the provided Axes object:
+    ax.imshow(wordcloud, interpolation='bilinear')
+    ax.axis("off")  # Hide axis on the specific subplot
+
+def filter_words(text):
+    return ' '.join([word for word in text.split() if word not in words_to_remove])
+
 def plot_keyword_counts(directory, positive_list, negative_list, horizontal=False):
     # Dictionary to store keyword counts
     keyword_counts = {}
