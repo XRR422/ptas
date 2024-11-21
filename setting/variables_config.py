@@ -10,6 +10,12 @@ for key_i in DRPS_keys_of_interest.keys():
     for v_i in DRPS_keys_of_interest[key_i]:
         DRPS_values_of_interest.append(v_i)
 
+schoolurl_dic = {
+    "cx_s_su747.htm": "School of Informatics",
+    "cx_s_su819.htm": "School of Education and Sport",
+    "cx_s_su796.htm": "School of Health in Social Science"
+}
+
 sub_urls_of_school = {
     "cx_s_su747.htm": ['cx_sb_epcc.htm', 'cx_sb_epcd.htm', 'cx_sb_infd.htm', 'cx_sb_infr.htm'],
     "cx_s_su819.htm": ['cx_sb_edua.htm', 'cx_sb_redu.htm', 'cx_sb_sprt.htm'],
@@ -37,5 +43,5 @@ neutral_accessibility_words = ["design", "disabled", "impairement"]
 
 Accessibility_List = positive_accessibility_words + negative_accessibility_words + neutral_accessibility_words
 
-Chatbot_accessibility_words = ["Accessibility", "Inclusive design", "Disability rights", "Adaptive tools"]
-Chatbot_accessibility_words = ','.join(Chatbot_accessibility_words)
+Chatbot_accessibility_words_ls = ["Accessibility", "Inclusive design", "Disability rights", "Adaptive tools"]
+Chatbot_accessibility_words = ','.join(Chatbot_accessibility_words_ls)
