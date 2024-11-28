@@ -131,7 +131,7 @@ class crawl_class:
         return table_dic
             
             
-    def fetch_by_chatgpt(self, base_url, url, keywords, url_filter):
+    def fetch_by_chatgpt(self, base_url, url, keywords, url_filter, semantic_mining=True):
         response = requests.get(url)
         if (response.status_code != 200):
             return {"status": False, "last_visit": url, "comment": f"failed to reach {url}"}
@@ -139,6 +139,11 @@ class crawl_class:
             return {"status": False, "last_visit": url, "comment": f"already searched the {url}"}
         self.logger.info(f"Visiting: {url}")  # Logging instead of printing
         self.visited.add(url)
+        match = re.search(r'\d{2}-\d{2}', url)
+        if match:
+            year_time = match.group()
+        else:
+            year_time = "No match"
         soup = BeautifulSoup(response.text, 'html.parser')
         links = soup.find_all('a', href=True)
         links = [link['href'] for link in links if url_filter in link['href']]
@@ -162,14 +167,17 @@ class crawl_class:
                 main_tablebody_elements = main_tablebody.find_all('table', recursive=True)
                 interested_sentences = self.format_html_tabel_content(main_tablebody_elements)
                 interested_sentences['Course title'] = course_title
-                client = openai.OpenAI( api_key="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",)
-                for each_keyword in DRPS_values_of_interest:
-                    newcol = f"{each_keyword}-accessibility-evidences-output"
-                    response = client.chat.completions.create(model="gpt-3.5-turbo", # model to use from Models Tab
-                            messages = [
+                interested_sentences['URL'] = full_link
+                interested_sentences['YEAR'] = year_time
+                if semantic_mining:
+                    client = openai.OpenAI( api_key="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",)
+                    for each_keyword in DRPS_values_of_interest:
+                        newcol = f"{each_keyword}-accessibility-evidences-output"
+                        response = client.chat.completions.create(model="gpt-3.5-turbo", # model to use from Models Tab
+                                messages = [
                                     {
                                         "role": "system",
-                                        "content": f"Imagine, you are a strict educator investigating whether the course is teaching students to be a person considering {Chatbot_accessibility_words}. Do not explain your answer. Can you find words from the given paragraph reflect the accessibility?"
+                                        "content": f"Imagine you are a strict educator assessing whether the course material effectively teaches students how to design with accessibility in mind for people with temporary or long-term disabilities. Identify any words or phrases in the provided paragraph that reflect this educational goal. Do not explain your answer."
                                     },
                                     {
                                         "role": "user",
@@ -177,16 +185,12 @@ class crawl_class:
                                     },
                                     {
                                         "role": "user",
-                                        "content": f"Output NO THERE ISNOT, if there is not. Otherwise, Output YES THERE IS."
-                                    },
-                                    {
-                                        "role": "user",
-                                        "content": f"If there is, append words after 'YES THERE IS', reflect accessibility."
+                                        "content": "If no relevant words or phrases are found, respond with 'NO, THERE IS NOT.' If relevant words or phrases are found, respond with 'YES, THERE IS,' followed by the specific words or phrases for disabled prople."
                                     }
                                 ]
-                    )
-                    interested_sentences[newcol] = response.choices[0].message.content
-                
+                        )
+                        interested_sentences[newcol] = response.choices[0].message.content
+                    
                 
             if len(interested_sentences) > 0:
                 self.save_to_csv(interested_sentences)

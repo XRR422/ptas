@@ -9,7 +9,7 @@ from wordcloud import WordCloud
 from setting.variables_config import *
 
 
-words_to_remove = {'YES', 'THERE', 'IS'} | set(Chatbot_accessibility_words_ls)
+words_to_remove = set(Chatbot_accessibility_words_ls + ['YES', 'YES\n', 'YES,', 'THERE', 'THERE,', 'IS', 'IS\n', 'IS,'])
 FIG_SIZE=(5.8*2.5, 3*2)
 def plot_word_cloud(df_column, ax):
     # Convert the DataFrame column to a single string

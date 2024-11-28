@@ -1,0 +1,357 @@
+2024-11-21 21:28:49,574 - INFO - Logger configured. Record to mine sites relevant to keywords semantic space.
+2024-11-21 21:28:49,574 - INFO - ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv created.
+2024-11-21 21:28:49,677 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cx_sb_epcc.htm
+2024-11-21 21:28:49,849 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11020.htm
+2024-11-21 21:28:54,740 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:28:54,770 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11012.htm
+2024-11-21 21:28:58,687 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:28:58,720 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11011.htm
+2024-11-21 21:29:03,270 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:03,304 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11007.htm
+2024-11-21 21:29:07,504 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:07,532 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11016.htm
+2024-11-21 21:29:12,775 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:12,804 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11015.htm
+2024-11-21 21:29:20,444 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:20,504 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11005.htm
+2024-11-21 21:29:24,361 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:24,424 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11004.htm
+2024-11-21 21:29:29,122 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:29,150 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11014.htm
+2024-11-21 21:29:33,451 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:33,480 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11013.htm
+2024-11-21 21:29:37,090 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:37,149 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11002.htm
+2024-11-21 21:29:42,914 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:42,952 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11006.htm
+2024-11-21 21:29:47,073 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:47,101 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11010.htm
+2024-11-21 21:29:50,814 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:50,847 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11009.htm
+2024-11-21 21:29:55,195 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:55,223 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11001.htm
+2024-11-21 21:29:59,224 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:29:59,253 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11019.htm
+2024-11-21 21:30:03,310 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:03,370 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11017.htm
+2024-11-21 21:30:08,077 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:08,091 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11017.htm
+2024-11-21 21:30:12,076 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:13,386 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11008.htm
+2024-11-21 21:30:17,690 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:17,718 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11018.htm
+2024-11-21 21:30:21,524 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:21,558 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcc11003.htm
+2024-11-21 21:30:25,439 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:25,439 - INFO - Mining for keywords Accessibility,Inclusive design,Disability rights,Adaptive tools is success.
+2024-11-21 21:30:25,472 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cx_sb_epcd.htm
+2024-11-21 21:30:25,516 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11020.htm
+2024-11-21 21:30:29,721 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:29,750 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11012.htm
+2024-11-21 21:30:34,024 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:34,054 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11011.htm
+2024-11-21 21:30:37,517 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:37,549 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11007.htm
+2024-11-21 21:30:42,490 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:42,518 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11019.htm
+2024-11-21 21:30:47,973 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:48,001 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11016.htm
+2024-11-21 21:30:51,835 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:51,865 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11015.htm
+2024-11-21 21:30:55,675 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:55,704 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11021.htm
+2024-11-21 21:30:59,514 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:30:59,542 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11013.htm
+2024-11-21 21:31:04,397 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:04,428 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11002.htm
+2024-11-21 21:31:08,547 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:08,574 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11006.htm
+2024-11-21 21:31:12,727 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:12,762 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11010.htm
+2024-11-21 21:31:17,543 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:17,572 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11009.htm
+2024-11-21 21:31:22,633 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:22,660 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11005.htm
+2024-11-21 21:31:26,533 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:26,565 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11004.htm
+2024-11-21 21:31:30,729 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:30,756 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11001.htm
+2024-11-21 21:31:34,827 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:34,857 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11018.htm
+2024-11-21 21:31:39,480 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:39,506 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11014.htm
+2024-11-21 21:31:43,758 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:43,784 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11008.htm
+2024-11-21 21:31:48,027 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:48,055 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11017.htm
+2024-11-21 21:31:52,026 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:52,054 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxepcd11003.htm
+2024-11-21 21:31:56,672 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:31:56,672 - INFO - Mining for keywords Accessibility,Inclusive design,Disability rights,Adaptive tools is success.
+2024-11-21 21:31:56,704 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cx_sb_infd.htm
+2024-11-21 21:31:56,753 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11022.htm
+2024-11-21 21:32:02,128 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:02,157 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11023.htm
+2024-11-21 21:32:06,825 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:07,054 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11030.htm
+2024-11-21 21:32:11,542 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:11,773 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11003.htm
+2024-11-21 21:32:15,468 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:15,552 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11018.htm
+2024-11-21 21:32:19,614 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:19,642 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11024.htm
+2024-11-21 21:32:24,261 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:24,289 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11013.htm
+2024-11-21 21:32:28,618 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:28,645 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11029.htm
+2024-11-21 21:32:32,679 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:32,708 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11028.htm
+2024-11-21 21:32:36,291 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:36,320 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11019.htm
+2024-11-21 21:32:40,563 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:40,591 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11014.htm
+2024-11-21 21:32:44,635 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:44,663 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11001.htm
+2024-11-21 21:32:48,457 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:48,507 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11005.htm
+2024-11-21 21:32:52,592 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:52,629 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11011.htm
+2024-11-21 21:32:56,628 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:32:56,672 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11007.htm
+2024-11-21 21:33:00,406 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:00,434 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11025.htm
+2024-11-21 21:33:03,778 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:03,814 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11020.htm
+2024-11-21 21:33:07,749 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:07,777 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11021.htm
+2024-11-21 21:33:11,469 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:11,499 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11010.htm
+2024-11-21 21:33:16,007 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:16,034 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11015.htm
+2024-11-21 21:33:19,845 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:19,873 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11009.htm
+2024-11-21 21:33:24,039 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:24,066 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11016.htm
+2024-11-21 21:33:28,436 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:28,465 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11027.htm
+2024-11-21 21:33:33,262 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:33,290 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11026.htm
+2024-11-21 21:33:37,871 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:37,899 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11017.htm
+2024-11-21 21:33:41,942 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:41,969 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11012.htm
+2024-11-21 21:33:45,979 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:45,980 - INFO - Mining for keywords Accessibility,Inclusive design,Disability rights,Adaptive tools is success.
+2024-11-21 21:33:46,015 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cx_sb_infr.htm
+2024-11-21 21:33:46,114 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08031.htm
+2024-11-21 21:33:50,128 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:50,144 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08020.htm
+2024-11-21 21:33:53,846 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:53,874 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08025.htm
+2024-11-21 21:33:57,715 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:33:57,741 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08029.htm
+2024-11-21 21:34:01,563 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:01,577 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08030.htm
+2024-11-21 21:34:05,645 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:05,855 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08026.htm
+2024-11-21 21:34:09,442 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:09,555 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08032.htm
+2024-11-21 21:34:13,669 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:13,695 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08027.htm
+2024-11-21 21:34:17,929 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:17,960 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08010.htm
+2024-11-21 21:34:22,125 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:22,152 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08033.htm
+2024-11-21 21:34:26,126 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:26,160 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr09053.htm
+2024-11-21 21:34:30,409 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:30,438 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr09051.htm
+2024-11-21 21:34:34,955 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:34,994 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr09032.htm
+2024-11-21 21:34:40,167 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:40,194 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10052.htm
+2024-11-21 21:34:44,008 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:44,035 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10087.htm
+2024-11-21 21:34:47,794 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:47,904 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10065.htm
+2024-11-21 21:34:52,270 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:52,300 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10054.htm
+2024-11-21 21:34:57,036 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:34:57,068 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10076.htm
+2024-11-21 21:35:01,920 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:01,947 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10074.htm
+2024-11-21 21:35:06,386 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:06,416 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10067.htm
+2024-11-21 21:35:10,372 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:10,399 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10077.htm
+2024-11-21 21:35:14,416 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:14,457 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10061.htm
+2024-11-21 21:35:18,480 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:18,510 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10078.htm
+2024-11-21 21:35:23,978 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:24,006 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10081.htm
+2024-11-21 21:35:28,042 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:28,070 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10044.htm
+2024-11-21 21:35:32,030 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:32,059 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10084.htm
+2024-11-21 21:35:35,998 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:36,030 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10082.htm
+2024-11-21 21:35:39,943 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:39,973 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10080.htm
+2024-11-21 21:35:44,471 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:44,532 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10085.htm
+2024-11-21 21:35:48,357 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:48,385 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10059.htm
+2024-11-21 21:35:52,530 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:52,584 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10051.htm
+2024-11-21 21:35:56,561 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:35:56,613 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10086.htm
+2024-11-21 21:36:00,782 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:00,809 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10089.htm
+2024-11-21 21:36:04,372 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:04,400 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10088.htm
+2024-11-21 21:36:08,102 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:09,894 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10079.htm
+2024-11-21 21:36:14,096 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:14,280 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10022.htm
+2024-11-21 21:36:18,357 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:18,483 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10064.htm
+2024-11-21 21:36:23,213 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:23,325 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10057.htm
+2024-11-21 21:36:27,492 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:27,607 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10083.htm
+2024-11-21 21:36:32,146 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:32,278 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11125.htm
+2024-11-21 21:36:36,049 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:36,168 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11199.htm
+2024-11-21 21:36:40,705 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:40,825 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11217.htm
+2024-11-21 21:36:46,052 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:46,157 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11213.htm
+2024-11-21 21:36:50,495 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:50,646 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11156.htm
+2024-11-21 21:36:55,126 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:55,248 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11279.htm
+2024-11-21 21:36:59,445 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:36:59,541 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11020.htm
+2024-11-21 21:37:04,535 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:04,563 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11218.htm
+2024-11-21 21:37:08,815 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:08,947 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11245.htm
+2024-11-21 21:37:12,949 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:13,076 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11249.htm
+2024-11-21 21:37:17,432 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:17,549 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11258.htm
+2024-11-21 21:37:21,383 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:21,501 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11211.htm
+2024-11-21 21:37:25,278 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:25,522 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11180.htm
+2024-11-21 21:37:29,700 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:29,812 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11033.htm
+2024-11-21 21:37:34,303 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:34,364 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11219.htm
+2024-11-21 21:37:38,124 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:38,152 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11160.htm
+2024-11-21 21:37:42,154 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:42,185 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11005.htm
+2024-11-21 21:37:46,927 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:46,959 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11144.htm
+2024-11-21 21:37:50,847 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:50,884 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11238.htm
+2024-11-21 21:37:55,056 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:55,088 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11206.htm
+2024-11-21 21:37:59,148 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:37:59,175 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11231.htm
+2024-11-21 21:38:02,934 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:02,963 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11094.htm
+2024-11-21 21:38:08,158 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:09,328 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11095.htm
+2024-11-21 21:38:13,138 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:13,289 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11281.htm
+2024-11-21 21:38:22,095 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:22,210 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11128.htm
+2024-11-21 21:38:25,993 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:26,195 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11036.htm
+2024-11-21 21:38:30,329 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:30,383 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11233.htm
+2024-11-21 21:38:34,541 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:34,657 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11102.htm
+2024-11-21 21:38:38,297 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:38,369 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11209.htm
+2024-11-21 21:38:42,616 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:42,642 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11021.htm
+2024-11-21 21:38:47,642 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:47,669 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11220.htm
+2024-11-21 21:38:51,761 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:51,797 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11241.htm
+2024-11-21 21:38:56,054 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:38:56,083 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11247.htm
+2024-11-21 21:39:00,206 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:00,234 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11246.htm
+2024-11-21 21:39:04,399 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:04,434 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11244.htm
+2024-11-21 21:39:08,571 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:08,694 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11212.htm
+2024-11-21 21:39:12,386 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:12,495 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11278.htm
+2024-11-21 21:39:16,296 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:16,449 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11115.htm
+2024-11-21 21:39:21,279 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:21,397 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11116.htm
+2024-11-21 21:39:25,273 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:25,389 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11117.htm
+2024-11-21 21:39:29,310 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:29,430 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11007.htm
+2024-11-21 21:39:33,234 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:33,350 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11190.htm
+2024-11-21 21:39:37,120 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:37,231 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11198.htm
+2024-11-21 21:39:41,058 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:41,172 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11022.htm
+2024-11-21 21:39:45,222 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:45,250 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11194.htm
+2024-11-21 21:39:49,630 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:49,660 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11088.htm
+2024-11-21 21:39:53,618 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:53,646 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11129.htm
+2024-11-21 21:39:58,486 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:39:58,517 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11262.htm
+2024-11-21 21:40:03,200 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:03,228 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11200.htm
+2024-11-21 21:40:07,992 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:13,992 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11250.htm
+2024-11-21 21:40:18,427 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:18,544 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11193.htm
+2024-11-21 21:40:22,474 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:22,599 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11203.htm
+2024-11-21 21:40:26,813 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:26,935 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11017.htm
+2024-11-21 21:40:31,429 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:31,563 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11140.htm
+2024-11-21 21:40:36,115 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:36,207 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11251.htm
+2024-11-21 21:40:40,245 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:40,272 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11257.htm
+2024-11-21 21:40:44,555 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:44,618 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11192.htm
+2024-11-21 21:40:49,056 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:49,149 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11204.htm
+2024-11-21 21:40:53,236 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:53,264 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11197.htm
+2024-11-21 21:40:57,461 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:40:57,487 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11147.htm
+2024-11-21 21:41:02,515 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:02,542 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11136.htm
+2024-11-21 21:41:06,335 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:06,362 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11274.htm
+2024-11-21 21:41:10,397 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:10,463 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11146.htm
+2024-11-21 21:41:15,361 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:15,468 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11131.htm
+2024-11-21 21:41:19,407 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:19,437 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11221.htm
+2024-11-21 21:41:22,954 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:22,990 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11189.htm
+2024-11-21 21:41:30,182 - INFO - 1 instances updated to ./data_container/24_11_21_21_28_49/24-25_cx_s_su747.htm.csv.
+2024-11-21 21:41:30,208 - INFO - Failed to access http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11099.htm
+2024-11-21 21:41:30,209 - INFO - Visiting: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11099.htm

@@ -17,9 +17,9 @@ schoolurl_dic = {
 }
 
 sub_urls_of_school = {
+    "cx_s_su796.htm": ['cx_sb_shss.htm', 'cx_sb_clps.htm', 'cx_sb_cnst.htm', 'cx_sb_issh.htm', 'cx_sb_nust.htm'],
     "cx_s_su747.htm": ['cx_sb_epcc.htm', 'cx_sb_epcd.htm', 'cx_sb_infd.htm', 'cx_sb_infr.htm'],
-    "cx_s_su819.htm": ['cx_sb_edua.htm', 'cx_sb_redu.htm', 'cx_sb_sprt.htm'],
-    "cx_s_su796.htm": ['cx_sb_clps.htm', 'cx_sb_cnst.htm', 'cx_sb_issh.htm', 'cx_sb_nust.htm', 'cx_sb_shss.htm']
+    "cx_s_su819.htm": ['cx_sb_edua.htm', 'cx_sb_redu.htm', 'cx_sb_sprt.htm']
 }
 
 positive_accessibility_words = [
