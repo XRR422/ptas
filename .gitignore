@@ -3,6 +3,7 @@
 # logs
 *.out
 *.json
+*.html
 # environment variables
 .env
 .env.production
@@ -22,8 +23,10 @@ temporary/
 exchange/
 uploadmetosharepoint.txt
 pushme.*
+*.xlsx
 *.csv
 *.zip
+temprun/
 
 # security file
 appkey.yaml

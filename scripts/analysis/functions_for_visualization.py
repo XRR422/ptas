@@ -81,3 +81,15 @@ def plot_keyword_counts(directory, positive_list, negative_list, horizontal=Fals
     plt.tight_layout()  # Adjust layout to make room for label rotation
     plt.show()
     return bar_plot
+
+def highlight_keywords(sentence, keywords):
+    if isinstance(sentence, str):  # Check if the cell is a string
+        for keyword in keywords:
+            # Highlight keywords (case-insensitive)
+            sentence = re.sub(
+                rf"({keyword})", 
+                r'<span style="background-color: yellow; font-weight: bold;">\1</span>',
+                sentence, 
+                flags=re.IGNORECASE
+            )
+    return sentence
