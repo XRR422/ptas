@@ -37,3 +37,17 @@
 ## For Next Researcher
 
 - This part will contain necessaries for running this pipeline (developing)
+
+### Last RA meeting & Focus group preparation
+ - what have done?
+  - DRPS parsing scripts
+  - 43 interviews
+  - 28 proof read
+  - 27 coded
+  - 37 consent forms received
+  - FG scheduled
+  - data stored under PTAS Teams/Documents/General/4.Interviews/RAs_Folder
+  
+ - Reviewed FG questions
+  - 4 major questions and 3 subquestions each = 12 total
+  - modified: question in lay & oral english
