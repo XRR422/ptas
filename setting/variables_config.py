@@ -45,3 +45,17 @@ Accessibility_List = positive_accessibility_words + negative_accessibility_words
 
 Chatbot_accessibility_words_ls = ["Accessibility", "Inclusive design", "Disability rights", "Adaptive tools"]
 Chatbot_accessibility_words = ','.join(Chatbot_accessibility_words_ls)
+
+from docx.shared import RGBColor
+Student_words_colors_pair = {
+    'Accessibility': RGBColor(255, 255, 0),  # yellow
+    'Accessibility knowledge': RGBColor(0, 255, 255),  # cyan
+    'Accessibility skills': RGBColor(0, 128, 0),  # green
+    'Job requirement': RGBColor(0, 0, 255),  # blue
+    'Knowledge gap': RGBColor(255, 0, 255),  # magenta
+    'Skill deficiency': RGBColor(255, 0, 0),  # red
+    'External training': RGBColor(0, 0, 139),  # darkBlue
+    'Training need': RGBColor(0, 139, 139),  # darkCyan
+    'Upskilling in accessibility': RGBColor(0, 100, 0),  # darkGreen
+    'Competency gap in accessibility': RGBColor(139, 0, 0)  # darkRed
+}
